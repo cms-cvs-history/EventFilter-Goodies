@@ -1,5 +1,5 @@
 <?xml version='1.0'?>
-<xmas:flash xmlns:xmas="http://xdaq.web.cern.ch/xdaq/xsd/2006/xmas-10" id="urn:xdaq-flashlist:evf-idie-cpu-max-load" version="$Revision: 1.1 $" key="run">
+<xmas:flash xmlns:xmas="http://xdaq.web.cern.ch/xdaq/xsd/2006/xmas-10" id="urn:xdaq-flashlist:evf-idie-cpu-load" version="$Revision: 1.1 $" key="run,lumi">
 	<!--
 	<xmas:item name="sessionid"             function="session()" type="string"/>
         <xmas:item name="timestamp"             function="systime()" type="time"/>
